@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "catalyst-website/static/css/main.7a82d7f4.chunk.css",
+    "main.js": "catalyst-website/static/js/main.18ffa9d1.chunk.js",
+    "main.js.map": "catalyst-website/static/js/main.18ffa9d1.chunk.js.map",
+    "runtime~main.js": "catalyst-website/static/js/runtime~main.1e8c606f.js",
+    "runtime~main.js.map": "catalyst-website/static/js/runtime~main.1e8c606f.js.map",
+    "static/js/2.9c562497.chunk.js": "catalyst-website/static/js/2.9c562497.chunk.js",
+    "static/js/2.9c562497.chunk.js.map": "catalyst-website/static/js/2.9c562497.chunk.js.map",
+    "index.html": "catalyst-website/index.html",
+    "precache-manifest.6374b1587283ec63f8329bdc90e077a8.js": "catalyst-website/precache-manifest.6374b1587283ec63f8329bdc90e077a8.js",
+    "service-worker.js": "catalyst-website/service-worker.js",
+    "static/css/main.7a82d7f4.chunk.css.map": "catalyst-website/static/css/main.7a82d7f4.chunk.css.map",
+    "static/media/catalyst_logo.png": "catalyst-website/static/media/catalyst_logo.fc4ab896.png"
+  }
+}
